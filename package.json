@@ -1,5 +1,7 @@
 {
-
+ "name": "hairday",
+ "description": "Aplicação Web de agendamento para corte de cabelo.",
+ "author": "Nicole Brenda",
   "scripts": {
     "server":"json-server --watch server.json --port 3333"
   },
